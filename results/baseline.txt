@@ -1,0 +1,2 @@
+Share of normal readings flagged: 0.069 %
+Share of normal runs with at least one alarm: 28.8 %

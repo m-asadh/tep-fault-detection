@@ -1,0 +1,16 @@
+Training the forest, please wait...
+Forest ready.
+
+===== Normal run =====
+No alarm raised in 960 readings.
+
+===== Fault 1 =====
+reading 165 (minute 495): ALARM confirmed - real fault caught, 5 readings after it started
+reading 182 (minute 546): forest says fault 1. True answer: fault 1
+
+===== Fault 4 =====
+reading 163 (minute 489): ALARM confirmed - real fault caught, 3 readings after it started
+reading 180 (minute 540): forest says fault 4. True answer: fault 4
+
+===== Fault 9 =====
+No alarm raised in 960 readings.

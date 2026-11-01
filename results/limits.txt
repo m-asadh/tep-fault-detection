@@ -1,0 +1,5 @@
+T2 limit: 52.19
+SPE limit: 11.79
+False alarms, T2 alone: 1.04 %
+False alarms, SPE alone: 1.05 %
+False alarms, either: 2.08 %
