@@ -1,6 +1,6 @@
 # Fault Detection on the Tennessee Eastman Process (PCA T²/SPE + Random Forest)
 
-Author: MOHAMMED ASADH, BTECH IN CPS, GOVERNMENT ENGINEERING COLLEGE THRISSUR.
+Author: Mohammed Asadh, B.Tech in Cyber Physical Systems, Government Engineering College Thrissur.
 
 A fault-monitoring pipeline for the Tennessee Eastman Process (TEP), a standard simulated chemical plant with 52 sensor/actuator variables and 20 fault types. It
 1. raises an alarm when the plant leaves normal operation (PCA with Hotelling's T² and SPE statistics), and
